@@ -7,10 +7,10 @@
 	<TurretGun.label>Taret</TurretGun.label>
 	<TurretGun.description>Düşmanlar geldiğinde otomatik ateş eder. Hasar aldığında patlar.</TurretGun.description>
 	
-	<Bullet_TurretImprovised.label>improvised taret mermisi</Bullet_TurretImprovised.label>
+	<Bullet_TurretImprovised.label>Eğreti Taret Mermisi</Bullet_TurretImprovised.label>
 	
-	<Gun_TurretImprovised.label>improvised taret silahı</Gun_TurretImprovised.label>
-        <Gun_TurretImprovised.description>Jury-rigged gun attached to a turret.</Gun_TurretImprovised.description>
+	<Gun_TurretImprovised.label>Eğreti Taret</Gun_TurretImprovised.label>
+        <Gun_TurretImprovised.description>Tarete bağlanmış eğreti bir silah.</Gun_TurretImprovised.description>
 
 	<Turret_MortarIncendiary.label>Havan Topu (Yakıcı)</Turret_MortarIncendiary.label>
 	<Turret_MortarIncendiary.description>Düştüğü yeri yakan füze atar. Kullanmak için biri gerekir. Hasar aldığında patlar.</Turret_MortarIncendiary.description>
@@ -19,22 +19,22 @@
 	<Turret_MortarBomb.description>Düştüğü yerde patlayan füze atar. Kullanmak için biri gerekir. Hasar aldığında patlar.</Turret_MortarBomb.description>
 	
 	<Artillery_MortarBomb.label>Patlayıcı Havan topu</Artillery_MortarBomb.label>
-        <Artillery_MortarBomb.description>Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarBomb.description>
+        <Artillery_MortarBomb.description>Havan topu. Bombaları duvarların üzerinden aşırtır. Çok isabetsiz ama yüksek menzilli.</Artillery_MortarBomb.description>
 
-        <Bullet_MortarBomb.label>explosive mortar shell</Bullet_MortarBomb.label>
+        <Bullet_MortarBomb.label>Havan Topu Mermisi (Patlayıcı)</Bullet_MortarBomb.label>
 
-        <Artillery_MortarIncendiary.label>incendiary mortar</Artillery_MortarIncendiary.label>
-        <Artillery_MortarIncendiary.description>Incendiary mortar launcher. Lobs fire-starting bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarIncendiary.description>
+        <Artillery_MortarIncendiary.label>Havan Topu (Yakıcı)</Artillery_MortarIncendiary.label>
+        <Artillery_MortarIncendiary.description>Yakıcı havan topu. Bombaları duvarların üzerinden aşırtır. Çok isabetsiz ama yüksek menzilli.</Artillery_MortarIncendiary.description>
 
-        <Bullet_MortarIncendiary.label>incendiary mortar shell</Bullet_MortarIncendiary.label>
+        <Bullet_MortarIncendiary.label>Havan Topu Mermisi (Yakıcı)</Bullet_MortarIncendiary.label>
 
 	<Turret_MortarEMP.label>Havan Topu (EMP)</Turret_MortarEMP.label>
 	<Turret_MortarEMP.description>Düştüğü yerdekileri sersemleten füze atar. Kullanmak için biri gerekir. Hasar aldığında patlar.</Turret_MortarEMP.description>
 	
-	<Artillery_MortarEMP.label>EMP mortar</Artillery_MortarEMP.label>
-        <Artillery_MortarEMP.description>Mortar launcher. Lobs EMP bombs over walls. Very inaccurate but long-ranged.</Artillery_MortarEMP.description>
+	<Artillery_MortarEMP.label>Havan Topu (EMP)</Artillery_MortarEMP.label>
+        <Artillery_MortarEMP.description>EMP Havan topu. Bombaları duvarların üzerinden aşırtır. Çok isabetsiz ama yüksek menzilli.</Artillery_MortarEMP.description>
 
-        <Bullet_MortarEMP.label>EMP mortar bomb</Bullet_MortarEMP.label>
+        <Bullet_MortarEMP.label>EMP Havan Topu Mermisi</Bullet_MortarEMP.label>
 
 	<TrapDeadfall.label>Tuzak</TrapDeadfall.label>
 	<TrapDeadfall.description>Hassas bir şekilde çalışan tuzak dikenler tarafından ağırlık merkezine sabitlenir ve merkeze ağırlık bindiği zaman kurbanı sıkıştırır.</TrapDeadfall.description>

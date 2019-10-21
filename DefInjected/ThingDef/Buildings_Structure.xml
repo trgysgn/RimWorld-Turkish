@@ -4,10 +4,10 @@
 	<!--========================= Doors =============================-->
 	
 	<Door.label>Kapı</Door.label>
-	<Door.description>Yerler arası geçişi sağlar. Elle açılıp kapandığı için geçenleri yavaşlatır.</Door.description>
+	<Door.description>Mekanlar arası geçişi sağlar. Elle açılıp kapandığı için geçenleri yavaşlatır.</Door.description>
 	
 	<Autodoor.label>Otomatik Kapı</Autodoor.label>
-	<Autodoor.description>Yerler arası geçişi sağlar. Elektrikle çalışır ve otomatik çalıştığı için geçen insanları yavaşlatmaz.</Autodoor.description>
+	<Autodoor.description>Mekanlar arası geçişi sağlar. Elektrikle çalışır ve otomatik çalıştığı için geçen insanları yavaşlatmaz.</Autodoor.description>
 	
 	<!--========================= Walls =============================-->
 	

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <FilthDirt.label>toprak</FilthDirt.label>
+    <FilthDirt.label>Toprak</FilthDirt.label>
     
-    <FilthAnimalFilth.label>hayvan pisliği</FilthAnimalFilth.label>
+    <FilthAnimalFilth.label>Hayvan pisliği</FilthAnimalFilth.label>
     
-    <FilthSand.label>kum</FilthSand.label>
+    <FilthSand.label>Kum</FilthSand.label>
     
-    <RockRubble.label>kaya molozu</RockRubble.label>
+    <RockRubble.label>Kaya molozu</RockRubble.label>
     
-    <BuildingRubble.label>yapı molozları</BuildingRubble.label>
+    <BuildingRubble.label>Yapı molozları</BuildingRubble.label>
     
-    <SandbagRubble.label>parçalanmış kum torbası</SandbagRubble.label>
+    <SandbagRubble.label>Parçalanmış kum torbası</SandbagRubble.label>
     
-    <FilthBlood.label>kan</FilthBlood.label>
+    <FilthBlood.label>Kan</FilthBlood.label>
     
-    <FilthBloodInsect.label>böcek kanı</FilthBloodInsect.label>
+    <FilthBloodInsect.label>Böcek kanı</FilthBloodInsect.label>
     
-    <FilthAmnioticFluid.label>amniyotik sıvı</FilthAmnioticFluid.label>
+    <FilthAmnioticFluid.label>Amniyotik sıvı</FilthAmnioticFluid.label>
     
-    <FilthSlime.label>slime</FilthSlime.label>
+    <FilthSlime.label>Balçık</FilthSlime.label>
     
-    <FilthVomit.label>kusmuk</FilthVomit.label>
+    <FilthVomit.label>Kusmuk</FilthVomit.label>
     
-    <FilthFireFoam.label>yangın söndrüme köpüğü</FilthFireFoam.label>
+    <FilthFireFoam.label>Yangın söndürme köpüğü</FilthFireFoam.label>
     
-    <FilthFuel.label>yakıt biriintisi</FilthFuel.label>
+    <FilthFuel.label>Yakıt birikintisi</FilthFuel.label>
     <FilthFuel.description>Yerde yanar.</FilthFuel.description>
     
 </LanguageData>
