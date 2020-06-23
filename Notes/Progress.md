@@ -1,7 +1,7 @@
 ## Turkish Language Translation Progress
 
 * [ ] [Backstories](https://github.com/Ludeon/RimWorld-Turkish/blob/master/Backstories/)
-    - [ ] [Backstories](https://github.com/Ludeon/RimWorld-Turkish/blob/master/Backstories/Backstories.txt)
+    - [x] [Backstories](https://github.com/Ludeon/RimWorld-Turkish/blob/master/Backstories/Backstories.txt)
 
 * [ ] [DefInjected](https://github.com/Ludeon/RimWorld-Turkish/blob/master/DefInjected)
  * [x] [BiomeDef](https://github.com/Ludeon/RimWorld-Turkish/blob/master/DefInjected/BiomeDef/)
